@@ -12,10 +12,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%8E%93-%E4%B8%AD%E5%8D%97%E8%B4%A2%E7%BB%8F%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6%20%C2%B7%20%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E9%99%A2-58A6FF?style=for-the-badge&labelColor=0D1117" alt="中南财经政法大学 外国语学院" />
+<img src="https://img.shields.io/badge/%E4%B8%AD%E5%8D%97%E8%B4%A2%E7%BB%8F%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6-%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E9%99%A2-58A6FF?style=for-the-badge&labelColor=0D1117" alt="中南财经政法大学 外国语学院" />
 <img src="https://img.shields.io/badge/%E8%BE%85%E5%AF%BC%E5%91%98-%E5%9B%A2%E5%A7%94%E4%B9%A6%E8%AE%B0-BC8CFF?style=for-the-badge&labelColor=0D1117" alt="辅导员 团委书记" />
-<img src="https://img.shields.io/badge/Vibecoding-%E6%8A%8A%E9%87%8D%E5%A4%8D%E7%9A%84%E4%BA%A4%E7%BB%99%E6%9C%BA%E5%99%A8-3FB950?style=for-the-badge&labelColor=0D1117" alt="Vibecoding" />
-<img src="https://img.shields.io/badge/%E5%85%A8%E6%A8%A1%E6%80%81%20AI-%E5%9B%BE%20%C2%B7%20%E9%9F%B3%20%C2%B7%20%E6%AD%8C%20%C2%B7%20%E8%A7%86%E9%A2%91-F778BA?style=for-the-badge&labelColor=0D1117" alt="全模态 AI" />
+<img src="https://img.shields.io/badge/Vibecoding-3FB950?style=for-the-badge&labelColor=0D1117" alt="Vibecoding" />
+<img src="https://img.shields.io/badge/%E5%85%A8%E6%A8%A1%E6%80%81%20AI-F778BA?style=for-the-badge&labelColor=0D1117" alt="全模态 AI" />
 
 <br/>
 
