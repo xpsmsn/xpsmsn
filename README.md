@@ -81,10 +81,10 @@
 </td>
 <td width="50%" valign="top">
 
-### 📰 [ZUELnews](https://github.com/xpsmsn/ZUELnews) · [sizhengzhihui](https://github.com/xpsmsn/sizhengzhihui)
-> 校园资讯 & 思政智慧平台工具链，把信息聚合和内容生产自动化。
+### 🗞 [思政智汇](https://github.com/xpsmsn/sizhengzhihui)
+> 面向高校辅导员的思政热点聚合站：自动盯住信源、精选内容，重要政策/讲话自动出解读，每周生成综述。
 
-`TypeScript` `信息聚合` `自动化`
+`TypeScript` `热点聚合` `自动综述` `Docker`
 
 </td>
 </tr>
