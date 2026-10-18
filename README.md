@@ -96,7 +96,7 @@
 
 **🗞 [思政智汇](https://sizhenzhihui.cpolar.cn/)** —— 面向高校辅导员的思政热点聚合站：自动盯住信源、精选内容，重要政策与讲话自动出解读，每周生成综述。
 
-> **已上线，[👉 直接体验](https://sizhenzhihui.cpolar.cn/)**。含真实学生工作数据，源码**暂未开源**；开放计划与进展欢迎在 [Issue 区](https://github.com/xpsmsn/xpsmsn/issues) 催更。
+> **已上线，[👉 直接体验](https://sizhenzhihui.cpolar.cn/)**。源码**暂未开源**；开放计划与进展欢迎在 [Issue 区](https://github.com/xpsmsn/xpsmsn/issues) 催更。
 
 <br/>
 
