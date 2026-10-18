@@ -9,6 +9,14 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,100:1f6feb&fontColor=58A6FF" width="100%" alt="header banner" />
+
+<br/>
+
+<a href="https://github.com/xpsmsn"><img src="https://github.com/xpsmsn.png?size=220" width="165" alt="IvanW avatar" /></a>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=64&lines=%E9%9D%9E%E7%A7%91%E7%8F%AD%E7%A8%8B%E5%BA%8F%E5%91%98%EF%BC%8C%E4%B8%93%E9%97%A8%E8%A7%A3%E5%86%B3%E7%9C%9F%E9%97%AE%E9%A2%98;AI+%E6%97%B6%E4%BB%A3%E7%9A%84%E5%B7%A5%E5%85%B7%E5%88%B6%E9%80%A0%E8%80%85;213+%E9%83%A8%E6%B3%95%E5%BE%8B%E4%B8%80%E7%A7%92%E6%9F%A5%E5%88%B0%E6%9D%A1%E6%96%87;Talk+is+cheap%2C+show+me+the+code" alt="Typing SVG" />
 
 <br/>
