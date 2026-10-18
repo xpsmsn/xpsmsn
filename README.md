@@ -12,10 +12,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/%f0%9f%8e%93-%e4%b8%ad%e5%8d%97%e8%b4%a2%e7%bb%8f%e6%94%bf%e6%b3%95%e5%a4%a7%e5%ad%a6-58A6FF?style=for-the-badge&labelColor=0D1117" alt="中南财经政法大学" />
-<img src="https://img.shields.io/badge/%e5%a4%96%e5%9b%bd%e8%af%ad%e5%ad%a6%e9%99%a2-%e8%be%85%e5%af%bc%e5%91%98+%2f+%e5%9b%a2%e5%a7%94%e4%b9%a6%e8%ae%b0-BC8CFF?style=for-the-badge&labelColor=0D1117" alt="辅导员 / 团委书记" />
-<img src="https://img.shields.io/badge/Vibecoding-%e6%8a%8a%e9%87%8d%e5%a4%8d%e7%9a%84%e4%ba%a4%e7%bb%99%e6%9c%ba%e5%99%a8-3FB950?style=for-the-badge&labelColor=0D1117" alt="把重复的交给机器" />
-<img src="https://img.shields.io/badge/%e5%85%a8%e6%a8%a1%e6%80%81+AI-%e5%9b%be+%2f+%e9%9f%b3+%2f+%e6%ad%8c+%2f+%e8%a7%86%e9%a2%91-F778BA?style=for-the-badge&labelColor=0D1117" alt="全模态 AI" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%93-%E4%B8%AD%E5%8D%97%E8%B4%A2%E7%BB%8F%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6%20%C2%B7%20%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E9%99%A2-58A6FF?style=for-the-badge&labelColor=0D1117" alt="中南财经政法大学 外国语学院" />
+<img src="https://img.shields.io/badge/%E8%BE%85%E5%AF%BC%E5%91%98-%E5%9B%A2%E5%A7%94%E4%B9%A6%E8%AE%B0-BC8CFF?style=for-the-badge&labelColor=0D1117" alt="辅导员 团委书记" />
+<img src="https://img.shields.io/badge/Vibecoding-%E6%8A%8A%E9%87%8D%E5%A4%8D%E7%9A%84%E4%BA%A4%E7%BB%99%E6%9C%BA%E5%99%A8-3FB950?style=for-the-badge&labelColor=0D1117" alt="Vibecoding" />
+<img src="https://img.shields.io/badge/%E5%85%A8%E6%A8%A1%E6%80%81%20AI-%E5%9B%BE%20%C2%B7%20%E9%9F%B3%20%C2%B7%20%E6%AD%8C%20%C2%B7%20%E8%A7%86%E9%A2%91-F778BA?style=for-the-badge&labelColor=0D1117" alt="全模态 AI" />
 
 <br/>
 
