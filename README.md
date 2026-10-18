@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/%F0%9F%8E%93-%E4%B8%80%E7%BA%BF%E5%AD%A6%E7%94%9F%E5%B7%A5%E4%BD%9C%E8%80%85-58A6FF?style=for-the-badge&labelColor=0D1117" alt="campus worker"/>
 <img src="https://img.shields.io/badge/%F0%9F%A4%96-%E5%85%A8%E6%A8%A1%E6%80%81%20AI%20%E5%AE%9E%E9%AA%8C%E8%80%85-BC8CFF?style=for-the-badge&labelColor=0D1117" alt="multimodal ai"/>
 <img src="https://img.shields.io/badge/%E2%9A%A1-Vibecoding-3FB950?style=for-the-badge&labelColor=0D1117" alt="vibecoding"/>
-<img src="https://komarev.com/ghpvc/?username=xpsmsn&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
