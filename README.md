@@ -17,15 +17,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=64&lines=%E9%9D%9E%E7%A7%91%E7%8F%AD%E7%A8%8B%E5%BA%8F%E5%91%98%EF%BC%8C%E4%B8%93%E9%97%A8%E8%A7%A3%E5%86%B3%E7%9C%9F%E9%97%AE%E9%A2%98;AI+%E6%97%B6%E4%BB%A3%E7%9A%84%E5%B7%A5%E5%85%B7%E5%88%B6%E9%80%A0%E8%80%85;213+%E9%83%A8%E6%B3%95%E5%BE%8B%E4%B8%80%E7%A7%92%E6%9F%A5%E5%88%B0%E6%9D%A1%E6%96%87;Talk+is+cheap%2C+show+me+the+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=64&lines=%E6%8A%8A%E9%87%8D%E5%A4%8D%E7%9A%84%E4%BA%A4%E7%BB%99%E6%9C%BA%E5%99%A8%EF%BC%8C%E6%8A%8A%E6%97%B6%E9%97%B4%E8%BF%98%E7%BB%99%E4%BA%BA;%E4%B8%80%E7%BA%BF%E5%AD%A6%E7%94%9F%E5%B7%A5%E4%BD%9C%E8%80%85%20%C2%B7%20%E5%85%A8%E6%A8%A1%E6%80%81%20AI%20%E5%AE%9E%E9%AA%8C%E8%80%85;Vibecoding%EF%BC%8C%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E8%92%B8;Talk%20is%20cheap%2C%20show%20me%20the%20code" alt="Typing SVG" />
 
 <br/>
 
 ### 你好，我是 <span style="color:#58A6FF">IvanW</span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" alt="wave"/>
 
-<img src="https://img.shields.io/badge/%F0%9F%94%A7-%E5%B7%A5%E5%85%B7%E5%88%B6%E9%80%A0%E8%80%85-58A6FF?style=for-the-badge&labelColor=0D1117" alt="tool maker"/>
-<img src="https://img.shields.io/badge/%F0%9F%8E%93-%E9%AB%98%E6%A0%A1%E5%AD%A6%E7%94%9F%E5%B7%A5%E4%BD%9C-BC8CFF?style=for-the-badge&labelColor=0D1117" alt="campus"/>
-<img src="https://img.shields.io/badge/%E2%9A%A1-AI%20Native%20Dev-3FB950?style=for-the-badge&labelColor=0D1117" alt="ai native"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%93-%E4%B8%80%E7%BA%BF%E5%AD%A6%E7%94%9F%E5%B7%A5%E4%BD%9C%E8%80%85-58A6FF?style=for-the-badge&labelColor=0D1117" alt="campus worker"/>
+<img src="https://img.shields.io/badge/%F0%9F%A4%96-%E5%85%A8%E6%A8%A1%E6%80%81%20AI%20%E5%AE%9E%E9%AA%8C%E8%80%85-BC8CFF?style=for-the-badge&labelColor=0D1117" alt="multimodal ai"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1-Vibecoding-3FB950?style=for-the-badge&labelColor=0D1117" alt="vibecoding"/>
 <img src="https://komarev.com/ghpvc/?username=xpsmsn&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
@@ -34,16 +34,18 @@
 
 ## 🧭 关于我
 
-我不是计算机科班出身，但我的代码都是被**真实问题**逼出来的：
+体育专业出身，在学生工作一线做辅导员、学院团委书记。对世界充满好奇，自学过前端，如今在 AI 的陪伴下走上了编程的路——大多是 vibecoding，但每个需求都来自真实的现场。
 
-> 在高校做学生工作，让我写程序的需求都很具体——213 部法律法规怎么一秒查到可逐字核查的条文？查寝打分表怎么做得顺手？学生的成绩、宿舍数据怎么**只存本机、全程离线**？
->
-> AI 抹平了非科班的语法短板，剩下的问题只有一个：**你是不是真的懂那个问题。** 这是我的主场。
+学生工作的日常里，堆满了事务性、重复性的劳动。于是我给自己立了一条主线：
 
-🔭 **在做的**：把高校学生工作里的重复劳动，一个个变成顺手的工具
-🌱 **在学的**：Agent / Skill 工程、RAG 检索、界面设计系统
-💬 **可以聊**：AI 工具落地、法律检索、教育信息化、UI 设计规范
-⚡ **信条**：Talk is cheap, show me the code —— 尤其是能解决真问题的 code
+> **把重复的交给机器，把时间还给人——还给育人，也还给创作。**
+
+法律速查、学生工作台、查寝打分、设计系统……我的每个项目，都长在这条主线的延长线上。代码之外，我还是**全模态 AI 的实验者**：图像、音频、歌曲、视频，ComfyUI 的工作流亲手跑过，也养着一个自己的 AI 歌手。
+
+🔭 **在做的**：把学生工作里的重复劳动，一个个变成顺手的工具
+🎛 **在实验的**：全模态生成（图 / 音 / 歌 / 视频）、Agent 工程、RAG 检索
+💬 **可以聊**：AI 工具落地、学生工作提效、教育信息化、UI 设计规范
+⚡ **主线**：把重复的交给机器，把时间还给人
 
 <br/>
 
@@ -90,6 +92,16 @@
 
 <br/>
 
+## 🎛 全模态实验场
+
+> 「一切都是 vibecoding，万物皆可蒸。」我把 AI 当成一支全能的实验乐队。
+
+- 🎵 **AI 歌手**：[网易云音乐人主页](https://music.163.com/#/artist?id=127957515) —— 歌曲 / 音频生成的公开实验
+- 🖼️ 图像 · 🎬 视频 · 🎧 音频：ComfyUI 工作流亲身实践
+- 🤖 在造的：把辅导员从事务性劳动里解放出来的 Agent / Skill 工具链
+
+<br/>
+
 ## 🧰 工具箱
 
 <div align="center">
@@ -123,8 +135,8 @@
 
 <br/><br/>
 
-**「非科班不是标签，是视角——我比谁都清楚，工具是拿来解决什么问题的。」**
+**「把重复的交给机器，把时间还给人。」**
 
-<sub>🔭 从真实工作里长出来的项目 · ⚡ 用 AI 放大一个人的产能</sub>
+<sub>🎓 从学生工作一线长出来的工具 · 🎵 全模态 AI 的公开实验</sub>
 
 </div>
