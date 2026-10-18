@@ -4,16 +4,16 @@
 
 <br/>
 
-<h1>吴老师</h1>
+<h1>IvanWu</h1>
 
-<p><b>中南财经政法大学 外国语学院 · 辅导员 / 团委书记</b></p>
+<p><b>中南财经政法大学 外国语学院 · 辅导员</b></p>
 
 <p><sub>把辅导员每天的重复劳动，做成开箱即用的工具。</sub></p>
 
 <br/>
 
 <img src="https://img.shields.io/badge/%E4%B8%AD%E5%8D%97%E8%B4%A2%E7%BB%8F%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6-%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E9%99%A2-58A6FF?style=for-the-badge&labelColor=0D1117" alt="中南财经政法大学 外国语学院" />
-<img src="https://img.shields.io/badge/%E8%BE%85%E5%AF%BC%E5%91%98-%E5%9B%A2%E5%A7%94%E4%B9%A6%E8%AE%B0-BC8CFF?style=for-the-badge&labelColor=0D1117" alt="辅导员 团委书记" />
+<img src="https://img.shields.io/badge/%E8%BE%85%E5%AF%BC%E5%91%98-BC8CFF?style=for-the-badge&labelColor=0D1117" alt="辅导员" />
 <img src="https://img.shields.io/badge/Vibecoding-3FB950?style=for-the-badge&labelColor=0D1117" alt="Vibecoding" />
 <img src="https://img.shields.io/badge/%E5%85%A8%E6%A8%A1%E6%80%81%20AI-F778BA?style=for-the-badge&labelColor=0D1117" alt="全模态 AI" />
 
@@ -27,7 +27,7 @@
 
 ## 🧭 我是谁
 
-体育专业出身，在学生工作一线做辅导员、学院团委书记。对世界充满好奇，自学过前端，如今在 AI 的陪伴下走上了编程的路——大多是 vibecoding，但**每一个需求都来自真实的现场**。
+体育专业出身，在学生工作一线做辅导员。对世界充满好奇，自学过前端，如今在 AI 的陪伴下走上了编程的路——大多是 vibecoding，但**每一个需求都来自真实的现场**。
 
 学生工作的日常里堆满了事务性、重复性的劳动。于是我给自己立了一条主线：
 
