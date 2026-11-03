@@ -19,7 +19,7 @@
 
 <br/>
 
-🔭 **正在做**：**思政智汇** —— 辅导员思政热点聚合站，[在线体验](https://sizhenzhihui.cpolar.cn/)
+🚀 **已上线**：**思政智汇** —— 辅导员思政热点聚合站，[在线体验](https://sizhenzhihui.cpolar.cn/)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 🔭 **在做的**：把学生工作里的重复劳动，一个个变成顺手的工具<br>
 🎛 **在实验的**：全模态生成（图 / 音 / 歌 / 视频）、Agent 工程、RAG 检索<br>
-💬 **可以聊**：AI 工具落地、学生工作提效、教育信息化、UI 设计规范
+💬 **可以聊**：AI 工具落地、学生工作提效、教育信息化、UI 设计规范 —— [提 Issue](https://github.com/xpsmsn/xpsmsn/issues) 找我
 
 <br/>
 
@@ -83,6 +83,17 @@
 > 应用界面设计铁律：8 族 25 式风格选型、token 落值与走查体系。三层约束模型 + 55 条 UX 规则 + 14 套实测配色。
 
 `设计系统` `UI 规范` `Design Tokens` `UX`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖊️ [gongwen-yizhibi](https://github.com/xpsmsn/gongwen-yizhibi)
+
+> 公文全流程数字员工：226 篇语料统计驱动的 7 文种写作 + GB/T 9704-2012 国标排版 DOCX 生成与校验，写完自检、排完可验。
+
+`公文写作` `国标排版` `语料统计` `AI Skill`
 
 </td>
 </tr>
